@@ -22,3 +22,29 @@ The benefits of using a project hub:
 - [Node version of a project hub](https://github.com/adorableio/projecthub)
 - [PHP version of a project hub](https://github.com/tzi/ProjectHub)
 - [GO (hugo) version of a project hub](https://github.com/vjeantet/hugo-theme-projecthub)
+
+
+
+	<link rel="stylesheet" type="text/css" href="./css/style.css" media="all" />
+	<h1>[Project Name] Project Timeline</h1>
+	<ol class="timeline">
+		<li class="tl-node">
+			<div class="tl-stamp">August 14th, 2013</div>
+			<div class="tl-content">Kickoff Meeting</div>
+			<a href="#">View notes</a>
+		</li>
+		<li class="tl-node">
+			<div class="tl-stamp">August 9th, 2013</div>
+			<div class="tl-content">Sign contract</div>
+			<a href="#">View contract</a>
+		</li>
+		<li class="tl-node">
+			<div class="tl-stamp">August 7th, 2013</div>
+			<div class="tl-content">Initial meeting</div>
+			<a href="#">Meeting Notes</a>
+		</li>
+		<li class="tl-node">
+			<div class="tl-stamp">July 13th, 2013</div>
+			<div class="tl-content">Initial contact</div>
+		</li>
+	</ol>
